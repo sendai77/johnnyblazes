@@ -6,7 +6,7 @@
 
 body {
     font-family: "Roboto","Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background: url('../img/jbatpb.jpg') no-repeat center center fixed;
+    background: url('../img/jbatpb.jpg') no-repeat top center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
