@@ -60,6 +60,10 @@ hr {
     margin: 0 auto;
 }
 
+.nodot {
+    list-style-type: none;
+}
+
 .navbar-brand {
     text-transform: uppercase;
     font-weight: 900;
